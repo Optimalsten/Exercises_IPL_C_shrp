@@ -4,3 +4,12 @@
 // 4    ->  16
 // -3   ->  9
 // -7   ->  49
+
+Console.Write("Enter number : ");
+string strNum = Console.ReadLine();
+int num = int.Parse(strNum);
+
+int sqr = num * num;
+
+Console.WriteLine(sqr);
+ 
