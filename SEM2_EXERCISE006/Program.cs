@@ -9,7 +9,7 @@ int num = int.Parse(number);
 if (num < 100 || num > 999)
 {
     Console.Write($"Введенное число некорректно {num}");
-    }
+}
 else
 {
     // int num1 = num % 10;
