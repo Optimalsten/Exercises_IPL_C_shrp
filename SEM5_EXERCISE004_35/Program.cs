@@ -51,7 +51,6 @@ Print(arr);
 int number1 = GetNumber(" - нижняя граница");
 int number2 = GetNumber(" - верхняя граница");
 
-Console.WriteLine($"\nКоличество элементов массива в диапазоне" 
-+ $"\n[{number1}, {number2}] равно {GetCount(arr, number1, number2)}.\n");
+ 
 
 
